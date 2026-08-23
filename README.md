@@ -54,11 +54,3 @@ This project helps beginners understand:
 * Conditional statements
 * Arithmetic operators
 * Basic Python programming
-
-## 👨‍💻 Author
-
-**Drashika Gangwar**
-
-## 📜 License
-
-This project is created for **learning and educational purposes**.
